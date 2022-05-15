@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakhile mabunda
 - 👀 I’m interested in Salesforce, Software Dev, Machine Learning, Computer Vision and Robotics.
-- 🌱 I’m currently doing admin certificate in Salesforce.
+- 🌱 I’m currently doing platform app dev certificate in Salesforce.
 - 📫 How to reach me? sakhile_mabunda@outlook.com
 
 <!---
